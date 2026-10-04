@@ -32,7 +32,10 @@ learning_style: Hands-on | Documenting everything | Building in public
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,cpp,git,docker,vim,nginx,wireshark,burp,kali,neo4j,html,css,js,react&theme=dark&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,cpp,git,docker,vim,nginx&theme=dark&perline=9" alt="Core Tools" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wireshark,burp,kali,neo4j,html,css,js,react&theme=dark&perline=8" alt="Security & Web" />
 </p>
 
 | Category | Tools & Technologies |
@@ -76,7 +79,11 @@ learning_style: Hands-on | Documenting everything | Building in public
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KisholoyDD21&theme=github_dark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KisholoyDD21&theme=github_dark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+</p>
+
+<p align="center">
+  <i>Trophies loaded from <a href="https://github.com/ryo-ma/github-profile-trophy">github-profile-trophy</a> — may take a moment to render.</i>
 </p>
 
 ---
