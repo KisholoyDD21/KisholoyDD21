@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kisholoy;Linux+%26+Cybersecurity+Enthusiast;Learning+in+Public+%7C+Daily+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kisholoy;Linux+%26+Cybersecurity+Enthusiast;Python+%7C+C%2B%2B+%7C+FastAPI+%7C+Web+Security;Building+in+Public+%7C+Daily+Progress" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 name: Kisholoy
 pronouns: He/Him
 location: India
-focus: Linux | Bash | Networking | Cybersecurity | Pentesting
+focus: Linux | Bash | Networking | Cybersecurity | Pentesting | Python | C++ | FastAPI | Web Security | DBMS
 current_quest: "Mastering the art of offensive & defensive security"
 learning_style: Hands-on | Documenting everything | Building in public
 ```
@@ -32,18 +32,20 @@ learning_style: Hands-on | Documenting everything | Building in public
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,docker,vim,nginx,wireshark,burp,kali&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,cpp,git,docker,vim,nginx,wireshark,burp,kali,neo4j,html,css,js,react&theme=dark&perline=12" alt="Tech Stack" />
 </p>
 
 | Category | Tools & Technologies |
 |----------|---------------------|
+| **Languages** | Python, C++, Bash, JavaScript, HTML/CSS |
+| **Backend & APIs** | FastAPI, REST APIs, WebSockets |
+| **Frontend & Web Security** | React, HTML5, CSS3, OWASP Top 10, Burp Suite, XSS/CSRF/SQLi testing |
+| **Databases** | Neo4j (Graph DB), PostgreSQL, MySQL, Redis |
 | **OS & Shell** | Kali Linux, Ubuntu, Bash, Zsh, PowerShell |
-| **Scripting** | Python, Bash, Shell scripting |
 | **Networking** | Nmap, Wireshark, Netcat, tcpdump, curl/wget |
-| **Security** | Burp Suite, Metasploit, Hydra, John, Hashcat, Gobuster |
-| **Web** | HTTP/HTTPS, DNS, SSL/TLS, OWASP Top 10 |
-| **DevOps** | Git, Docker, CI/CD basics, Vim/Neovim |
-| **Learning** | TryHackMe, Hack The Box, PortSwigger Academy |
+| **Security & Pentesting** | Burp Suite, Metasploit, Hydra, John, Hashcat, Gobuster, Nmap scripts |
+| **DevOps & Tools** | Git, Docker, CI/CD basics, Vim/Neovim, Linux hardening |
+| **Learning Platforms** | TryHackMe, Hack The Box, PortSwigger Academy |
 
 ---
 
@@ -51,7 +53,7 @@ learning_style: Hands-on | Documenting everything | Building in public
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KisholoyDD21&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KisholoyDD21&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Top%20Languages&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KisholoyDD21&layout=compact&theme=github_dark&hide_border=true&langs_count=10&custom_title=Top%20Languages&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -68,33 +70,6 @@ learning_style: Hands-on | Documenting everything | Building in public
 | [**capacity-connect**](https://github.com/KisholoyDD21/capacity-connect) | Capacity planning & connectivity tool | Python, Networking | 🟡 In Progress |
 | [**gods-eye-view**](https://github.com/KisholoyDD21/gods-eye-view) | Network monitoring & visualization | Python, Bash, APIs | 🟡 In Progress |
 | [**woman_safety_app**](https://github.com/KisholoyDD21/woman_safety_app) | Safety application with alerting system | Python, Flask, Twilio | 🟢 Complete |
-
----
-
-## 📅 Learning Journey (Public)
-
-```mermaid
-timeline
-    title Learning Roadmap
-    2024-Q4 : Linux Basics
-            : File Permissions
-            : User Management
-    2025-Q1 : Bash Scripting
-            : Package Management
-            : Networking Fundamentals
-    2025-Q2 : Service Management
-            : Log Analysis
-            : Intro to Pentesting
-    2025-Q3 : Web App Security
-            : CTF Practice
-            : Certification Prep
-    2025-Q4 : Advanced Exploitation
-            : Malware Analysis
-            : Red Team Ops
-```
-
-> **Current Phase:** 🟢 **Linux Fundamentals** — Days 1-3 complete  
-> **Next Up:** Bash scripting, package management, networking basics
 
 ---
 
